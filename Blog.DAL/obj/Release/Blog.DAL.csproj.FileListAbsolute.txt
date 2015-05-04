@@ -1,0 +1,6 @@
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Release\Blog.DAL.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Release\Blog.DAL.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Release\EntityFramework.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Release\EntityFramework.xml
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\obj\Release\Blog.DAL.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\obj\Release\Blog.DAL.pdb

@@ -6,18 +6,23 @@ using System.Reflection;
 using Blog.DAL.Infrastructure;
 using Blog.DAL.Model;
 using Blog.DAL.Repository;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+//using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
 using TDD.DbTestHelpers.Core;
 using TDD.DbTestHelpers.Yaml;
+using NUnit.Framework;
+using System.Collections.Generic;
+using System.Text;
 
 
 namespace Blog.DAL.Tests
 {
-    [TestClass]
+    //[TestClass]
+    [TestFixture]
     public class RepositoryTests
     {
-        [TestMethod]
+        //[TestMethod]
+        [Test]
         public void GetAllPost_OnePostInDb_ReturnOnePost()
         {
             // arrange
@@ -35,7 +40,14 @@ namespace Blog.DAL.Tests
             // act
             var result = repository.GetAllPosts();
             // assert
-            Assert.AreEqual(1, result.Count());
+
+            Assert.AreEqual(true, result.Count());
+        }
+
+        [Test]
+        public void test_adress_constructor_with_all_null()
+        {
+            Assert.AreEqual(false, false);
         }
     }
 
