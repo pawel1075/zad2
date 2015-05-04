@@ -10,13 +10,16 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System.Diagnostics;
 using TDD.DbTestHelpers.Core;
 using TDD.DbTestHelpers.Yaml;
+using NUnit.Framework;
 
 namespace Blog.DAL.Tests
 {
-    [TestClass]
+    //[TestClass]
+    [TestFixture]
     public class RepositoryTests
     {
-        [TestMethod]
+        //[TestMethod]
+        [Test]
         public void GetAllPost_OnePostInDb_ReturnOnePost()
         {
             // arrange
