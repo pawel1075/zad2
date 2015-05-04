@@ -43,9 +43,6 @@
     <Reference Include="System.Core">
       <RequiredTargetFramework>3.5</RequiredTargetFramework>
     </Reference>
-    <Reference Include="TDD.DbTestHelpers">
-      <HintPath>..\packages\DbTestHelpers\TDD.DbTestHelpers.dll</HintPath>
-    </Reference>
     <Reference Include="YamlDotNet.Core">
       <HintPath>..\packages\DbTestHelpers\YamlDotNet.Core.dll</HintPath>
     </Reference>
