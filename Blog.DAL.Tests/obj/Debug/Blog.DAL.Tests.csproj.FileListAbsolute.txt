@@ -1,0 +1,16 @@
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll.config
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.Tests.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\Blog.DAL.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\EntityFramework.xml
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\TDD.DbTestHelpers.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.Core.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\bin\Debug\YamlDotNet.RepresentationModel.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.csprojResolveAssemblyReference.cache
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL.Tests\obj\Debug\Blog.DAL.Tests.pdb

@@ -1,0 +1,6 @@
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Debug\Blog.DAL.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Debug\Blog.DAL.pdb
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Debug\EntityFramework.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\bin\Debug\EntityFramework.xml
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\obj\Debug\Blog.DAL.dll
+F:\szkola\pg\SEM3\synteza_aplikacji_biznesowych\zad2\Blog\Blog.DAL\obj\Debug\Blog.DAL.pdb
