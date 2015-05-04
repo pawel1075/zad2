@@ -49,6 +49,12 @@ namespace Blog.DAL.Tests
         {
             Assert.AreEqual(false, false);
         }
+
+        [Test]
+        public void AddComment()
+        {
+            Assert.AreEqual(false, false);
+        }
     }
 
     /*public class BlogFixtures : YamlDbFixture<BlogContext, BlogFixturesModel>
