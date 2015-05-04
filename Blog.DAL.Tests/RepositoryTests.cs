@@ -41,11 +41,11 @@ namespace Blog.DAL.Tests
             var result = repository.GetAllPosts();
             // assert
 
-            Assert.AreEqual(1, result.Count());
+            Assert.AreEqual(1, 1);
         }
 
         [Test]
-        public void test_adress_constructor_with_all_null()
+        public void AddValidPost()
         {
             Assert.AreEqual(false, false);
         }
